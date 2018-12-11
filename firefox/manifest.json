@@ -40,7 +40,7 @@
 
     "applications": {
         "gecko": {
-          "id": "com.scottxu.acFunVideoDownload"
+          "id": "com_scottxu_acFunVideoDownload"
         }
       }
   
