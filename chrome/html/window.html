@@ -1,0 +1,53 @@
+<div id="ACVideoDownload_div" style="display:none;">
+    <div class="ACVideoDownload_mask"></div>
+    <div class="ACVideoDownload_window">
+        <div class="ACVideoDownload_load" id="ACVideoDownload_load">
+            <div id="floatingCirclesG">
+                <div class="f_circleG" id="frotateG_01"></div>
+                <div class="f_circleG" id="frotateG_02"></div>
+                <div class="f_circleG" id="frotateG_03"></div>
+                <div class="f_circleG" id="frotateG_04"></div>
+                <div class="f_circleG" id="frotateG_05"></div>
+                <div class="f_circleG" id="frotateG_06"></div>
+                <div class="f_circleG" id="frotateG_07"></div>
+                <div class="f_circleG" id="frotateG_08"></div>
+            </div>
+        </div>
+        <div class="ACVideoDownload_message" id="ACVideoDownload_message" style="display:none;">
+            <div class="ACVideoDownload_context">
+                <h1 id="ACVideoDownload_messageType"></h1>
+                <pre id="ACVideoDownload_messageContext"></pre>
+            </div>
+            <div class="ACVideoDownload_windowButtons">
+                <div class="ACVideoDownload_btn ACVideoDownload_btnWindowClose">关闭</div>
+            </div>
+        </div>
+        <div class="ACVideoDownload_windowPage" id="ACVideoDownload_select">
+            <div class="ACVideoDownload_context">
+                <h1>下载视频到电脑</h1>
+                <p>在下面的单选框中选择你要下载的视频的质量，然后再点击下载按钮开始下载。</p>
+                <div class="ACVideoDownload_radiobtnsGroup" id="ACVideoDownload_radiobtnsGroupStreams"></div>
+            </div>
+            <div class="ACVideoDownload_windowButtons">
+                <div class="ACVideoDownload_btn" id="ACVideoDownload_btnDownload">下载</div>
+                <div class="ACVideoDownload_btn white ACVideoDownload_btnWindowClose">关闭</div>
+            </div>
+        </div>
+        <div class="ACVideoDownload_windowPage" id="ACVideoDownload_download" style="display:none;">
+            <div class="ACVideoDownload_context">
+                <h1>正在下载</h1>
+                <p>正在下载视频，这可能需要一些时间。</p>
+                <div class="ACVideoDownload_downloadProgressBox">
+                    <p>已完成：<span id="ACVideoDownload_progressText">0.00</span>% (<span id="ACVideoDownload_sizeLoadedText">0B</span>/<span id="ACVideoDownload_sizeTotalText">0B</span>)</p>
+                    <div class="ACVideoDownload_progressBar">
+                        <div class="ACVideoDownload_progressBar_bar"></div>
+                    </div>
+                    <p><span id="ACVideoDownload_speedText">0B</span>/s 剩余时间：<span id="ACVideoDownload_timeLeftText">00:00</span></p>
+                </div>
+            </div>
+            <div class="ACVideoDownload_windowButtons">
+                <div class="ACVideoDownload_btn white" id="ACVideoDownload_btnWindowCancel">取消</div>
+            </div>
+        </div>
+    </div>
+</div>
