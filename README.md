@@ -1,6 +1,6 @@
 # AcFun Video Download
 [![Version 1.0](https://img.shields.io/badge/version-1.0-brightgreen.svg)](https://github.com/iamscottxu/AcFun-Video-Download/releases)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/oodpfboapdbeeefjdlilcmoohdhnieen.svg)](https://chrome.google.com/webstore/detail/acfun-html5-player/oodpfboapdbeeefjdlilcmoohdhnieen)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/stars/khfheicddakgkjkocaokijccaaeebfko.svg)](https://chrome.google.com/webstore/detail/acfun-video-download/khfheicddakgkjkocaokijccaaeebfko)
 [![Firefox Add-ons](https://img.shields.io/amo/stars/acfun-video-download.svg)](https://addons.mozilla.org/zh-CN/firefox/addon/acfun-video-download/)
 [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/iamscottxu/acfun-Html5player/blob/master/LICENSE)
 
@@ -13,7 +13,7 @@ AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
 ### 安装
 直接进入以下地址，安装浏览器扩展，打开AcFun播放页面即可使用。对于不能访问Chrome网上应用商店或使用其他Chromium内核浏览器（360浏览器、QQ浏览器等绝大多数国产浏览器）的小伙伴可以到[`https://github.com/iamscottxu/AcFun-Video-Download/releases`](https://github.com/iamscottxu/AcFun-Video-Download/releases)页面单独下载最新版本的crx包并打开Chrome的应用扩展页面进行安装。
 
-* Chrome Web Store 
+* Chrome Web Store [`https://chrome.google.com/webstore/detail/acfun-video-download/khfheicddakgkjkocaokijccaaeebfko`](https://chrome.google.com/webstore/detail/acfun-video-download/khfheicddakgkjkocaokijccaaeebfko)
 
 * Firefox Add-ons [`https://addons.mozilla.org/zh-CN/firefox/addon/acfun-video-download/`](https://addons.mozilla.org/zh-CN/firefox/addon/acfun-video-download/)
 
