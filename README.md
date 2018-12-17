@@ -17,6 +17,7 @@
 
 ## 简介
 AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
+
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 安装和使用
@@ -49,8 +50,9 @@ AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
 <div align=center><img width=640px src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/3.png"></div>
 <div align=center>图3</div><br/>
 
-下载成功后浏览器会弹出保存对话框，点击`保存`后，视频文件将会保存到浏览器默认下载文件夹。<br/>
-如果你的电脑不能正常播放后缀名为“.ts”格式的视频，可以下载格式转换软件对视频格式进行转换（推荐转换成“mp4”格式）后再进行播放。
+下载成功后某些浏览器会弹出保存对话框，请点击`保存`。一般情况，视频文件将会保存到浏览器默认下载文件夹，在浏览器下载列表中也可找到。<br/>
+如果你的电脑不能正常播放后缀名为“.ts”格式的视频，可以下载格式转换软件对视频格式进行转换（推荐转换成“mp4”格式）后再进行播放。
+
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 免责声明
@@ -58,16 +60,28 @@ AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
 本项目作者对下载者本人因使用此工具下载视频后剪辑、再发布等任何侵权行而产生的法律纠纷概不负责。<br/>
 请支持正版，本插件**目前暂不支持下载任何非用户自行发布的内容（番剧、电影等）**，望谅解。
 
+<div align=right><a href=#acfun-video-download>返回顶部</a></div>
+
 ## 联系作者
 如果有任何问题请写 [issus](https://github.com/iamscottxu/AcFun-Video-Download/issues) 。<br/>
 E-mail：[scottxu@scottxublog.com](mailto:scottxu@scottxublog.com)
+
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 许可协议
-这个项目是一个开源项目，遵循MIT开源协议。要查看协议，请点击[这里](https://github.com/iamscottxu/AcFun-Video-Download/blob/master/LICENSE)。<br/>
+这个项目是一个开源项目，遵循MIT开源协议。要查看协议，请点击[这里](https://github.com/iamscottxu/AcFun-Video-Download/blob/master/LICENSE)。
+
+下面列出了本项目所引用的开源项目及其许可协议：
+| 项目地址 | 版权 | 许可协议 |
+| ------ | ------ | ------ |
+| [Jquery](https://github.com/jquery/jquery) | Copyright JS Foundation and other contributors, https://js.foundation/ | [MIT License](https://github.com/jquery/jquery/blob/master/LICENSE.txt) |
+| [jquery-cookie](https://github.com/carhartl/jquery-cookie) | Copyright 2014 Klaus Hartl | [MIT License](https://github.com/carhartl/jquery-cookie/blob/master/MIT-LICENSE.txt) |
+| [m3u8-parser](https://github.com/videojs/m3u8-parser) | Copyright Brightcove, Inc | [Apache License 2.0](https://github.com/videojs/m3u8-parser/blob/master/LICENSE) |
+
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 更新历史
 ### [1.0(2018-12-11)](https://github.com/iamscottxu/AcFun-Video-Download/releases/tag/v1.0)
 * 第一个版本。
+
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
