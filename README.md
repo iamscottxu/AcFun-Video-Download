@@ -14,7 +14,6 @@
 * [免责声明](##免责声明)
 * [联系作者](##联系作者)
 * [许可协议](##许可协议)
-***
 
 ## 简介
 AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
@@ -38,13 +37,13 @@ AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
 
 ### 使用
 登录->进入播放详情页->下载观看（投蕉左边）->立即下载 （如图1所示）
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/1.png">图1</div>
+<div style="text-align:center"><img style="width:100%;max-width:640px; max-height:400px;" src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/1.png">图1</div>
 
 选择好清晰度，点击`下载`按钮。（如图2所示）
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/2.png">图2</div>
+<div style="text-align:center"><img style="width:100%;max-width:640px; max-height:400px;" src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/2.png">图2</div>
 
 然后，视频将开始下载。（如图3所示）
-<div style="text-align:center"><img src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/3.png">图3</div>
+<div style="text-align:center"><img style="width:100%;max-width:640px; max-height:400px;" src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/3.png">图3</div>
 
 下载成功后浏览器会弹出保存对话框，点击`保存`后，视频文件将会保存到浏览器默认下载文件夹。<br/>
 如果你的电脑不能正常播放后缀名为“.ts”格式的视频，可以下载格式转换软件对视频格式进行转换（推荐转换成“mp4”格式）后再进行播放。
