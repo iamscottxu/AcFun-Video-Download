@@ -72,6 +72,7 @@ E-mail：[scottxu@scottxublog.com](mailto:scottxu@scottxublog.com)
 这个项目是一个开源项目，遵循MIT开源协议。要查看协议，请点击[这里](https://github.com/iamscottxu/AcFun-Video-Download/blob/master/LICENSE)。
 
 下面列出了本项目所引用的开源项目及其许可协议：
+
 | 项目地址 | 版权 | 许可协议 |
 | ------ | ------ | ------ |
 | [Jquery](https://github.com/jquery/jquery) | Copyright JS Foundation and other contributors, https://js.foundation/ | [MIT License](https://github.com/jquery/jquery/blob/master/LICENSE.txt) |
