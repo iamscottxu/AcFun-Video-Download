@@ -64,7 +64,7 @@ E-mail：[scottxu@scottxublog.com](mailto:scottxu@scottxublog.com)
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 许可协议
-这个项目是一个开源项目，遵循MIT开源协议。要查看协议，请点击[这里](https://github.com/iamscottxu/AcFun-Video-Download/blob/master/LICENSE)。<br/>
+这个项目是一个开源项目，遵循MIT开源协议。要查看协议，请点击[这里](https://github.com/iamscottxu/AcFun-Video-Download/blob/master/LICENSE)。<br/>
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 更新历史
