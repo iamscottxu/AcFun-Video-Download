@@ -41,7 +41,7 @@ AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
 <div align=center>图1</div><br/>
 
 选择好清晰度，点击`下载`按钮。（如图2所示）
-<div align=align><img width=640px  src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/2.png"></div>
+<div align=center><img width=640px  src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/2.png"></div>
 <div align=center>图2</div><br/>
 
 然后，视频将开始下载。（如图3所示）
