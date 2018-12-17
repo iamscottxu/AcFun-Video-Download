@@ -50,8 +50,8 @@ AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
 <div align=center><img width=640px src="https://raw.githubusercontent.com/iamscottxu/AcFun-Video-Download/master/screenshot/3.png"></div>
 <div align=center>图3</div><br/>
 
-下载成功后某些浏览器会弹出保存对话框，请点击`保存`。一般情况，视频文件将会保存到浏览器默认下载文件夹，在浏览器下载列表中也可找到。<br/>
-如果你的电脑不能正常播放后缀名为“.ts”格式的视频，可以下载格式转换软件对视频格式进行转换（推荐转换成“mp4”格式）后再进行播放。
+下载成功后某些浏览器会弹出保存对话框，请点击`保存`。一般情况，视频文件将会保存到浏览器默认下载文件夹，在浏览器下载列表中也可找到。<br/>
+如果你的电脑不能正常播放后缀名为“.ts”格式的视频，可以下载格式转换软件对视频格式进行转换（推荐转换成“mp4”格式）后再进行播放。
 
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
