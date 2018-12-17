@@ -17,6 +17,7 @@
 
 ## 简介
 AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
+<div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 安装和使用
 ### 安装
@@ -50,6 +51,7 @@ AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
 
 下载成功后浏览器会弹出保存对话框，点击`保存`后，视频文件将会保存到浏览器默认下载文件夹。<br/>
 如果你的电脑不能正常播放后缀名为“.ts”格式的视频，可以下载格式转换软件对视频格式进行转换（推荐转换成“mp4”格式）后再进行播放。
+<div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 免责声明
 下载的视频版权归视频所有者所有，除非视频所有者同意，否则下载的视频仅限作离线播放用途。任何未经授权的剪辑和再发布等行为均为侵犯版权的行为，请尊重创作者的劳动成果。<br/>
@@ -59,10 +61,13 @@ AcFun Video Download 是一个为AcFun设计的简洁的视频下载器。
 ## 联系作者
 如果有任何问题请写 [issus](https://github.com/iamscottxu/AcFun-Video-Download/issues) 。<br/>
 E-mail：[scottxu@scottxublog.com](mailto:scottxu@scottxublog.com)
+<div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 许可协议
 这个项目是一个开源项目，遵循MIT开源协议。要查看协议，请点击[这里](https://github.com/iamscottxu/AcFun-Video-Download/blob/master/LICENSE)。<br/>
+<div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
 ## 更新历史
 ### [1.0(2018-12-11)](https://github.com/iamscottxu/AcFun-Video-Download/releases/tag/v1.0)
 * 第一个版本。
+<div align=right><a href=#acfun-video-download>返回顶部</a></div>
