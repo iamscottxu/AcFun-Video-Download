@@ -13,7 +13,7 @@
     * [使用](#使用)
 * [免责声明](#免责声明)
 * [联系作者](#联系作者)
-* [许可协议](#许可协议)
+* [版权声明](#版权声明)
 * [更新历史](#更新历史)
 
 ## 简介
@@ -69,7 +69,7 @@ E-mail：[scottxu@scottxublog.com](mailto:scottxu@scottxublog.com)
 
 <div align=right><a href=#acfun-video-download>返回顶部</a></div>
 
-## 许可协议
+## 版权声明
 这个项目是一个开源项目，遵循MIT开源协议。要查看协议，请点击[这里](https://github.com/iamscottxu/AcFun-Video-Download/blob/master/LICENSE)。
 
 下面列出了本项目所引用的开源项目及其许可协议：
